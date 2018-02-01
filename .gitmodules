@@ -1,3 +1,15 @@
-[submodule "Animations"]
-	path = Animations
+[submodule "Maya/Animations"]
+	path = Maya/Animations
 	url = https://github.com/uvuanimationandgamedev/Animations.git
+[submodule "Maya/Props"]
+	path = Maya/Props
+	url = https://github.com/uvuanimationandgamedev/Props.git
+[submodule "Maya/Sets"]
+	path = Maya/Sets
+	url = https://github.com/uvuanimationandgamedev/Sets.git
+[submodule "Maya/Characters"]
+	path = Maya/Characters
+	url = https://github.com/uvuanimationandgamedev/Characters.git
+[submodule "Maya/VFX"]
+	path = Maya/VFX
+	url = https://github.com/uvuanimationandgamedev/VFX.git
