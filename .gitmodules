@@ -1,0 +1,3 @@
+[submodule "Animations"]
+	path = Animations
+	url = https://github.com/uvuanimationandgamedev/Animations.git
